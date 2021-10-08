@@ -1,0 +1,1 @@
+La carpeta estaba vacía, por eso no permitió subirla sola. Ahora que se creí el archivo respuesta.txt sí permitió.
