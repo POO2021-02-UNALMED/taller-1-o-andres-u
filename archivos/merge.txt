@@ -1,3 +1,6 @@
 Oscar Andres Usuga Nanclares
 31
 Repasar los conceptos de POO que vi hace muchos años
+La carpeta estaba vacía, por eso no permitió subirla sola. Ahora que se creí el archivo respuesta.txt sí permitió.
+
+Es importante porque se pueden presentar conflictos con los cambios que alguien esté haciendo.
